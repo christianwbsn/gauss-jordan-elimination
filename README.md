@@ -1,4 +1,33 @@
 # Gauss-Jordan-elimination
-Program to process matrix using Gauss Jordan Elimination Method. 
-Build using Java. Program can solve many problem related to linear equation using matrix processing approach. Aimed to finish IF2123 Algebraic Geometry first task.
-Contributor Christian Wibisono &amp; Ricky Kennedy.
+----
+
+## Description
+This repository is first task of IF2123 Algebraic Geometry. Program to process matrix using Gauss Jordan Elimination Method. 
+Build using Java. Program can solve many problem related to linear equation using matrix processing approach.
+
+## Requirements
+* Java JDK 8
+----
+## Project Structure
+| bin 
+  | GaussJordanMatrix.class
+| doc
+  | LAPORAN-ALGEO.pdf
+  | README.txt
+| src
+  | GaussJordan.java
+| test
+----
+
+## Installation
+in folder src
+` javac  GaussJordanMatrix.java`
+
+## Usage
+in folder bin
+` java GaussJordanMatrix`
+
+## Author
+* [Christian Wibisono](https://github.com/christianwbsn)-13516147
+* [Ricky Kennedy](https://github.com/RickyKennedy25)-13516105
+* [Daniel Ryan Levyson](https://github.com/denailry)-13516132
