@@ -2,13 +2,14 @@
 ----
 
 ## Description
-This repository is first task of IF2123 Algebraic Geometry. Program to process matrix using Gauss Jordan Elimination Method. 
+This repository is first task of IF2123 Algebraic Geometry, Department of Informatics, School of Electrical Engineering and Informatics, Bandung Institute of Technology. Program to process matrix using Gauss Jordan Elimination Method. 
 Build using Java. Program can solve many problem related to linear equation using matrix processing approach.
 
 ## Requirements
 * Java JDK 8
 ----
 ## Project Structure
+```
 | bin 
   | GaussJordanMatrix.class
 | doc
@@ -17,7 +18,7 @@ Build using Java. Program can solve many problem related to linear equation usin
 | src
   | GaussJordan.java
 | test
-----
+```
 
 ## Installation
 in folder src
